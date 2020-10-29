@@ -4,7 +4,13 @@
 
 */
 
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: 'Spartan', sans-serif;
 
+}
 .navbar-toggler{
     background-color: #2D3142 !important;
 }
